@@ -12,7 +12,7 @@ export const ProjectCard = ({ project: { title, imageSrc, description, skills, d
                 ))}
             </ul>
             <div className={styles.links}>
-                <a href={demo} className={styles.link}>Demo</a>
+                
                 <a href={source} className={styles.link}>Github</a>
             </div>
         </div>
