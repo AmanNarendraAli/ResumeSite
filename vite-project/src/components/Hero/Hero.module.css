@@ -30,6 +30,7 @@
 }
 
 .description{
+    padding-right: 20px;
     font-size:30px;
     font-family: var(--font-robot);
     margin-bottom: 52px;
