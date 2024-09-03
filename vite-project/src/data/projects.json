@@ -1,16 +1,16 @@
 [
     {
-      "title": "Project A",
+      "title": "Health Information Chatbot",
       "imageSrc": "assets/projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "description": "This is an ongoing project to build a chatbot that can answer health-related questions with a knowledge graph component.",
+      "skills": ["NLP", "Neo4j", "Python"],
       "source": "https://www.github.com"
     },
     {
-      "title": "Project B",
+      "title": "Malaria Modelling",
       "imageSrc": "assets/projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "description": "Performed timeseries modelling of malaria with a number of variables, incorporating temperature and mosquito mortality through regression analysis.",
+      "skills": ["SciPy","Matplotlib"],
       "source": "https://www.github.com"
     },
     {

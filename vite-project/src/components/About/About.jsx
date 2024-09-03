@@ -15,32 +15,29 @@ export const About = () => {
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon"å />
+            <img src={getImageUrl("about/serverIcon.png")} alt="Cursor icon"å />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Data Science</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                I'm primarily interested in data science and have a number of data science/ML projects under my belt.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <img src={getImageUrl("about/cursorIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>NLP Engineer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+                I've worked on multiple NLP projects and am currently working on a Health Information Chatbot under Professor Anirban Sen.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
+            <img src={getImageUrl("about/uiIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Full-stack Developer</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                I'm a budding full-stack developer and have done a few projects in the MERN stack.
               </p>
             </div>
           </li>
