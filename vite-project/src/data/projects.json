@@ -4,14 +4,14 @@
       "imageSrc": "assets/projects/project.png",
       "description": "This is an ongoing project to build a chatbot that can answer health-related questions with a knowledge graph component.",
       "skills": ["NLP", "Neo4j", "Python"],
-      "source": "https://www.github.com"
+      "source": "https://github.com/AmanNarendraAli/HealthInformationChatbot"
     },
     {
       "title": "Malaria Modelling",
       "imageSrc": "assets/projects/project.png",
       "description": "Performed timeseries modelling of malaria with a number of variables, incorporating temperature and mosquito mortality through regression analysis.",
       "skills": ["SciPy","Matplotlib"],
-      "source": "https://www.github.com"
+      "source": "https://github.com/AmanNarendraAli/MalariaModel"
     },
     {
       "title": "Project C",
