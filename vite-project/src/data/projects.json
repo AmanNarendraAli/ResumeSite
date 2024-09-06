@@ -1,23 +1,23 @@
 [
     {
       "title": "Health Information Chatbot",
-      "imageSrc": "assets/projects/project.png",
+      "imageSrc": "assets/projects/chatbot.jpg",
       "description": "This is an ongoing project to build a chatbot that can answer health-related questions with a knowledge graph component.",
       "skills": ["NLP", "Neo4j", "Python"],
       "source": "https://github.com/AmanNarendraAli/HealthInformationChatbot"
     },
     {
       "title": "Malaria Modelling",
-      "imageSrc": "assets/projects/project.png",
+      "imageSrc": "assets/projects/malaria.jpg",
       "description": "Performed timeseries modelling of malaria with a number of variables, incorporating temperature and mosquito mortality through regression analysis.",
       "skills": ["SciPy","Matplotlib"],
       "source": "https://github.com/AmanNarendraAli/MalariaModel"
     },
     {
-      "title": "Project C",
-      "imageSrc": "assets/projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "source": "https://www.github.com"
+      "title": "Stroke Prediction",
+      "imageSrc": "assets/projects/stroke.jpg",
+      "description": "Contrasted the performance of various machine learning models in predicting stroke risk based on patient data. Used Precision, Recall, Accuracy , F1 Score and ROC-AUC as evaluation metrics.",
+      "skills": ["Scikit-learn", "Pandas", "Matplotlib", "Seaborn"],
+      "source": "https://github.com/AmanNarendraAli/StrokePrediction"
     }
   ]
