@@ -15,7 +15,6 @@ function App() {
     <About />
     <Experience />
     <Projects />
-    <Messaging />
     <Contact />
     </div>
   )
